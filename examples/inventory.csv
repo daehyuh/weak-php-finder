@@ -1,0 +1,4 @@
+host,php_state,php_version,evidence,vendor_patch_id
+portal.example.test,yes,8.4.26,owner inventory 2026-10-22,
+library.example.test,yes,8.4.27,owner inventory 2026-10-22,
+archive.example.test,no,,owner inventory 2026-10-22,

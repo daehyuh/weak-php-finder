@@ -1,0 +1,4 @@
+portal.example.test
+library.example.test
+shop.example.test
+archive.example.test
